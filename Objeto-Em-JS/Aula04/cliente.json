@@ -1,0 +1,12 @@
+{
+  "nome": "Yuki",
+  "idade": 43,
+  "email": "yuki@xpto.com",
+  "telefone": ["1155555555", "11333333333"],
+  "endereco":{
+    "lougradoro": "Torre Dos Vingadores",
+    "numero": 2671,
+    "apartamento": true,
+    "complemento": "Cobertura"
+  }
+}
